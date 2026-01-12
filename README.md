@@ -50,18 +50,6 @@ This project is designed for **machine learning intern roles** and focuses on da
 
 ---
 
-## Project Workflow
-1. Data Loading
-2. Data Cleaning and Preprocessing
-3. Exploratory Data Analysis (EDA)
-4. Feature Selection and Encoding
-5. Train-Test Split
-6. Model Training
-7. Model Evaluation
-8. Performance Comparison
-
----
-
 ## Evaluation Metrics
 - Accuracy
 - Precision
