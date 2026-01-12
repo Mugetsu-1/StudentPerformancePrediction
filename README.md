@@ -4,7 +4,7 @@
 This project predicts **student academic performance** (Pass/Fail or Final Score) using machine learning techniques.  
 The goal is to analyze how factors such as study time, attendance, and previous grades affect student outcomes.
 
-This project is designed for **machine learning intern roles** and focuses on data preprocessing, model comparison, and evaluation.
+This project is designed for **machine learning beginner try** and focuses on data preprocessing, model comparison, and evaluation.
 
 ---
 
